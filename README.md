@@ -1,6 +1,6 @@
 ### <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px"></h1>
 <h2 align="center"><b>I'm Abhineet Vyas.<b> <br> 
- A Machine Learning Geek & Data Science😁</h2>
+ A Machine Learning & Data Science Geek😁</h2>
 <p align="center">
   <img src="focus-animation.gif" width="600px" />
 </p> 
