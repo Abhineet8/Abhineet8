@@ -28,6 +28,11 @@
 - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/abhineet-vyas-246997173/) 
 - [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/abhineetvyas11/)
 
+  <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhineet8&show_icons=true&theme=tokyonight" alt="Abhineet8" />
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineet8&theme=tokyonight&layout=compact" alt="Abhineet8" />
+</p>
 <!--
 **Abhineet8/Abhineet8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
