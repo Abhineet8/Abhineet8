@@ -1,5 +1,6 @@
-### <h1 align="center">Hi 👋🏻, I'm Abhineet Vyas.</h1>
-<h2 align="center">A Machine Learning Geek😁</h2>
+### <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px"></h1>
+<h2 align="center"><b>I'm Abhineet Vyas.<b> <br> 
+ A Machine Learning Geek & Data Science😁</h2>
 <p align="center">
   <img src="focus-animation.gif" width="600px" />
 </p> 
@@ -17,16 +18,18 @@
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"></code> &nbsp;&nbsp;
- <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></code> &nbsp;&nbsp; 
- <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
- <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/spyder.svg"></code> &nbsp;&nbsp 
+<code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></code> &nbsp;&nbsp; 
+
+ 
   
  ### 📫 How to reach me
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> 😊
 
 - [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>](mailto:abhineetvyas11@gmail.com)
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/abhineet-vyas-246997173/) 
+- [![Linkedin: Abhineet](https://img.shields.io/badge/-Abhineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/abhineet-vyas-246997173/)](https://www.linkedin.com/in/abhineet-vyas-246997173/) 
 - [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/abhineetvyas11/)
+
+
 
   <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Abhineet8&show_icons=true&theme=tokyonight" alt="Abhineet8" />
