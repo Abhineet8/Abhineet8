@@ -1,7 +1,11 @@
 ### <h1 align="center">Hi 👋🏻, I'm Abhineet Vyas.</h1>
 <h2 align="center">A Machine Learning Geek😁
 <br><br>
+<p align="center">
+  <img src="focus-animation.gif" width="600px" />
+</p>
 
+<br/>
 <!--
 **Abhineet8/Abhineet8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
