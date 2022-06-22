@@ -1,4 +1,4 @@
-### <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px"></h1>
+### <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="10px"></h1>
 <h2 align="center"><b>I'm Abhineet Vyas.<b> <br> 
  A Machine Learning & Data Science Geek😁</h2>
 <p align="center">
