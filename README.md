@@ -14,7 +14,7 @@
 const abhineet = {
   role: "Business Analyst & Power Platform Professional",
   focuses: ["Process Automation", "Data Insights", "Low-code Solutions"],
-  currentlyLearning: "Advanced Power BI & Copilot Studio",
+  currentlyWorkingOn: "Building a Power Apps procurement portal with Dataverse",
   funFact: "I turn messy spreadsheets into clean dashboards"
 }
 ```
