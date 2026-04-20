@@ -1,32 +1,54 @@
-### <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="10px"></h1>
-<h2 align="center"><b>I'm Abhineet Vyas.<b> <br> 
- Business Analysis and Power Platform Professional😁</h2>
+<h1 align="center">Hey, I'm Abhineet Vyas <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="28px"></h1>
+
+<h3 align="center">Business Analysis & Power Platform Professional 📊⚡</h3>
+
 <p align="center">
-  <img src="focus-animation.gif" width="600px" />
-</p> 
-<h2 align = "center">👨‍💻 Tools and Technologies I use </h2>
-<p align="center">
-
-
- 
-  
- ### 📫 How to reach me
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> 😊
-
-- [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>](mailto:abhineetwork8@gmail.com)
-- [![Linkedin: Abhineet](https://img.shields.io/badge/-Abhineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/abhineet-vyas-246997173/)](https://www.linkedin.com/in/abhineet-vyas-246997173/) 
-
-
-
-
-  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhineet8&show_icons=true&theme=tokyonight" alt="Abhineet8" />
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineet8&theme=tokyonight&layout=compact" alt="Abhineet8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Power+BI+%7C+Power+Apps+%7C+Power+Automate;Business+Analyst+%26+Low-Code+Builder;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
-<!--
-**Abhineet8/Abhineet8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
+### 🧑‍💻 About Me
 
+```js
+const abhineet = {
+  role: "Business Analyst & Power Platform Professional",
+  focuses: ["Process Automation", "Data Insights", "Low-code Solutions"],
+  currentlyLearning: "Advanced Power BI & Copilot Studio",
+  funFact: "I turn messy spreadsheets into clean dashboards"
+}
+```
+
+---
+
+### 🔧 Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhineet8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineet8&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p>
+  <a href="mailto:abhineetwork8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhineet-vyas-246997173/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+> 💬 *I love connecting with different people — if you want to say hi, I'll be happy to meet you!* 😊
